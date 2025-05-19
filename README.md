@@ -87,6 +87,7 @@ python image_classifier.py
 - PyTorch
 - Transformers (HuggingFace)
 - PIL (معالجة الصور)
+- Numpy
 
 ---
 
